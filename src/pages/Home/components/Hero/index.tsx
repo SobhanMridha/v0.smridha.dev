@@ -67,7 +67,7 @@ const Hero: React.FC = () => {
           <ContributionGraph />
         </Slide>
       </div>
-      <h1 className="text-4xl mx-20">My Skill</h1>
+      <h1 className="text-4xl text-center">My Skill</h1>
       <div className="flex flex-row flex-wrap items-center justify-evenly gap-7 mt-10 px-6">
         {data?.companies?.map((company, index) => (
           <div key={index}>
