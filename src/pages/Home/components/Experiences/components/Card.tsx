@@ -7,6 +7,7 @@ const Card: React.FC<{ job: CardType; rtl?: boolean }> = ({
   rtl = true,
 }) => {
   const Showcase = () => (
+    
     <div className="border border-primary p-2 bg-primary bg-opacity-5 rounded-xl">
       <Link to={job.showcase.url} target="_blank">
         <img
