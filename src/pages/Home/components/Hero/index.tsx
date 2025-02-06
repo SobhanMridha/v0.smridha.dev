@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
           className="overflow-hidden mt-10 p-3 rounded-3xl border-4 border-primary-500 w-fit h-fit"
         >
           <motion.img
-            src="/public/profile.png"
+            src="/profile.png"
             className="max-w-[296px] w-[95vw] max-h-[296px] object-cover rounded-lg"
             initial={{
               // scale: 0.5,

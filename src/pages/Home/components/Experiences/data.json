@@ -40,7 +40,7 @@
         }
       ],
       "showcase": {
-        "image": "/public/tasks/khoboraKhobor_profile.png",
+        "image": "/tasks/khoboraKhobor_profile.png",
         "url": "https://khobora-khobor.web.app/"
       }
     },
@@ -84,7 +84,7 @@
         }
       ],
       "showcase": {
-        "image": "/public/tasks/studyhub_profile.png",
+        "image": "/tasks/studyhub_profile.png",
         "url": "https://studyhub-1cc3f.web.app/"
       }
     },
@@ -129,7 +129,7 @@
         }
       ],
       "showcase": {
-        "image": "/public/tasks/crowdcube_profile.png",
+        "image": "/tasks/crowdcube_profile.png",
         "url": "https://crowdcube-44194.web.app/"
       }
     }

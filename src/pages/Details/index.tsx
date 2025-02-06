@@ -1,4 +1,3 @@
-import React from "react";
 import data from "../Home/components/Experiences/data.json";
 import { Link, useParams } from "react-router-dom";
 
