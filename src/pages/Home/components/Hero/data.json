@@ -1,0 +1,68 @@
+{
+  "name": "Sobhan Mridha",
+  "username": "SobhanMridha",
+  "profession": "Frontend dev",
+  "pronouns": ["he", "him"],
+  "names": ["Md. Sobhan Mridha", "Mridha", "Tanvir"],
+  "about": "A Frontend developer and Competitive Programmer.",
+  "email": "sobhanmridha786@gmail.com",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/SobhanMridha",
+      "icon": "mdi:github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sobhanmridha/",
+      "icon": "mdi:linkedin"
+    },
+    {
+      "name": "Codeforces",
+      "url": "https://codeforces.com/profile/ReMade",
+      "icon": "simple-icons:codeforces"
+    },
+    {
+      "name": "Codechef",
+      "url": "https://www.codechef.com/users/sobhan_mridha",
+      "icon": "simple-icons:codechef"
+    }
+  ],
+  "stacks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/asatter833",
+      "icon": "mdi:github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/asatter833/",
+      "icon": "mdi:linkedin"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/utsha_rashid/",
+      "icon": "mdi:instagram"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/utsha_rashid/",
+      "icon": "mdi:instagram"
+    },
+    {
+      "name": "Behance",
+      "url": "https://www.behance.net/abdussatter833",
+      "icon": "mage:behance"
+    }
+  ],
+  "companies": [
+    "companies/html.png",
+    "companies/css.png",
+    "companies/tailwind.png",
+    "companies/js.png",
+    "companies/node.png",
+    "companies/express.png",
+    "companies/mongodb.png",
+    "companies/firebase.png"
+  ]
+}

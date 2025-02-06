@@ -1,0 +1,137 @@
+{
+  "jobs": [
+    {
+      "company": "Khobora-khobor",
+      "company_url": "https://khobora-khobor.web.app/",
+      "company_location": "Dhaka, Bangladesh.",
+      "description": "Khobora-khobor is an innovative newspaper platform designed to revolutionize how users access and engage with news. By integrating trending articles, premium features, and a seamless user experience, Khobora-khobor delivers a dynamic, user-centric news aggregation solution. Built with cutting-edge technologies like React, Firebase, Node.js, and MongoDB, it offers reliable and engaging content to keep readers informed and connected.",
+      "github" : "https://github.com/SobhanMridha/Khobora-khobor-Client",
+      "main_tech": [
+        "React.js",
+        "Firebase",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "Redux"
+      ],
+      "challenges": [
+        "Optimizing website performance for fast content loading.",
+        "Implementing real-time news updates efficiently.",
+        "Ensuring seamless user authentication and security.",
+        "Handling large amounts of dynamic data efficiently.",
+        "Designing an intuitive and responsive UI for all devices."
+      ],
+      "future_improvements": [
+        "Adding AI-powered news recommendations based on user preferences.",
+        "Enhancing SEO for better search engine visibility.",
+        "Integrating more multimedia content like videos and podcasts.",
+        "Implementing a subscription model for premium content.",
+        "Expanding multi-language support for a global audience."
+      ],
+      "positions": [
+        {
+          "title": "Frontend Developer",
+          "start_date": "Oct 2023",
+          "end_date": "present",
+          "duration": "1 yr 1 mos",
+          "location_type": "Remote",
+          "job_type": "Full-time"
+        }
+      ],
+      "showcase": {
+        "image": "/public/tasks/khoboraKhobor_profile.png",
+        "url": "https://khobora-khobor.web.app/"
+      }
+    },
+    {
+      "company": "StudyHub",
+      "company_url": "https://studyhub-1cc3f.web.app/",
+      "company_location": "Dhaka, Bangladesh.",
+      "description": "The purpose of this website is to provide an interactive and collaborative platform for users to engage in group study sessions with friends. It allows users to create, complete, and grade assignments, fostering a productive learning environment. With real-time updates, peer feedback, and progress tracking, the website aims to enhance learning through collaboration and mutual support. Whether for academic or personal development, it's a space where users can grow and learn together.",
+      "github" : "https://github.com/SobhanMridha/StudyHub-Client",
+      "main_tech": [
+        "React.js",
+        "Firebase",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "Socket.io"
+      ],
+      "challenges": [
+        "Implementing real-time collaboration features with WebSockets.",
+        "Ensuring seamless user authentication and role management.",
+        "Handling concurrent data updates without conflicts.",
+        "Optimizing UI/UX for a smooth and engaging learning experience.",
+        "Ensuring data privacy and security for users."
+      ],
+      "future_improvements": [
+        "Integrating AI-powered tutoring and personalized study suggestions.",
+        "Expanding support for more file types in assignments.",
+        "Enhancing analytics for tracking user performance and progress.",
+        "Implementing video conferencing for live study sessions.",
+        "Introducing gamification elements to boost user engagement."
+      ],
+      "positions": [
+        {
+          "title": "Frontend Developer",
+          "start_date": "Oct 2023",
+          "end_date": "May 2023",
+          "duration": "8 mos",
+          "location_type": "Remote",
+          "job_type": "Contract"
+        }
+      ],
+      "showcase": {
+        "image": "/public/tasks/studyhub_profile.png",
+        "url": "https://studyhub-1cc3f.web.app/"
+      }
+    },
+
+    {
+      "company": "Crowdcube",
+      "company_url": "https://crowdcube-44194.web.app/",
+      "company_location": "Dhaka, Bangladesh.",
+      "description": "A crowdfunding website serves as a platform where individuals, entrepreneurs, or organizations can present their projects, causes, or ideas to a global audience and invite financial support. Whether it's a personal need such as medical bills, a creative venture like a film or app, or an innovative startup product, this platform connects project creators with potential backers.This platform fosters community-driven funding, turning ambitious ideas into reality.",
+      "github" : "https://github.com/SobhanMridha/Crowdcube-Client",
+      "main_tech": [
+        "React.js",
+        "Firebase",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "Stripe API"
+      ],
+      "challenges": [
+        "Implementing secure payment processing for crowdfunding transactions.",
+        "Ensuring a smooth and intuitive user experience for backers and creators.",
+        "Managing project funding goals and dynamically updating progress bars.",
+        "Handling multiple user roles with different permissions and actions.",
+        "Optimizing website performance for scalability as more users join."
+      ],
+      "future_improvements": [
+        "Integrating AI-driven campaign recommendations for users.",
+        "Enhancing security features to prevent fraudulent funding campaigns.",
+        "Adding a social engagement system to boost community interactions.",
+        "Introducing mobile app support for easier crowdfunding management.",
+        "Expanding multi-currency support for global crowdfunding opportunities."
+      ],
+      "positions": [
+        {
+          "title": "Jr. Frontend Developer",
+          "start_date": "Sept 2022",
+          "end_date": "Dec 2022",
+          "duration": "4 mos",
+          "location_type": "Remote",
+          "job_type": "Contract"
+        }
+      ],
+      "showcase": {
+        "image": "/public/tasks/crowdcube_profile.png",
+        "url": "https://crowdcube-44194.web.app/"
+      }
+    }
+  ]
+}
