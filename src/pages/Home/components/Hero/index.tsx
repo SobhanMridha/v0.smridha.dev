@@ -59,7 +59,7 @@ const Hero: React.FC = () => {
             ))}
           </div>
            <h1><span className="text-primary-200">Email:</span> sobhanmridha786@gmail.com</h1>
-           <h1><span className="text-primary-200">Number:</span> 01799492559</h1>
+           <h1><span className="text-primary-200">Number:</span> +880 1799492559</h1>
         </div>
       </div>
       <div className="md:flex items-center justify-center">
@@ -67,7 +67,7 @@ const Hero: React.FC = () => {
           <ContributionGraph />
         </Slide>
       </div>
-      <h1 className="text-4xl text-center">My Skill</h1>
+      <h1 id="my-skill" className="text-4xl text-center">My Skill</h1>
       <div className="flex flex-row flex-wrap items-center justify-evenly gap-7 mt-10 px-6">
         {data?.companies?.map((company, index) => (
           <div key={index}>
@@ -79,13 +79,13 @@ const Hero: React.FC = () => {
         ))}
         
       </div>
-      <div className="flex flex-col md:flex-row items-center justify-between max-w-5xl mx-auto px-2 my-20 gap-14">
+      <div id="resume" className="flex flex-col md:flex-row items-center justify-between max-w-5xl mx-auto px-2 my-20 gap-14">
         <p className="max-w-md text-xl md:text-2xl font-semibold text-center md:text-left">
         Let's Work Together – Check My Resume.
         </p>
         <button
     
-          className="px-10 py-3 bg-primary bg-opacity-10 rounded-full border-2 border-primary text-primary font-extrabold tracking-widest"
+          className="px-10 py-3 bg-primary bg-opacity-10 rounded-full border-2 border-primary text-primary hover:text-white font-extrabold tracking-widest"
         >
           Download resume
         </button>

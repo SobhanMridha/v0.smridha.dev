@@ -4,7 +4,7 @@ import Card, { CardType } from "./components/Card";
 
 const Experiences: React.FC = () => {
   return (
-    <div className="relative">
+    <div id="projects" className="relative">
 		<h1 className="text-4xl text-center">Projects</h1>
       {data?.jobs?.map((job: CardType, index: number) => {
         return (
