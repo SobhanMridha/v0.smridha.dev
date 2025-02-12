@@ -56,6 +56,8 @@
     }
   ],
   "companies": [
+    "companies/c.png",
+    "companies/c++.png",
     "companies/html.png",
     "companies/css.png",
     "companies/tailwind.png",

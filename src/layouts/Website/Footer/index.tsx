@@ -22,8 +22,7 @@ const WebsiteFooter: React.FC = () => {
           ))}
         </div>
         <p className="text-xs font-medium tracking-widest text-gray-400">
-          Copyright &copy; Sobhan Mridha <span>{new Date().getFullYear()}</span>{" "}
-          All rights Reserved{" "}
+          Designed & inspired by <a href="https://github.com/asatter833" target="_blank">[Abdus Satter]</a>
         </p>
       </div>
     </footer>
