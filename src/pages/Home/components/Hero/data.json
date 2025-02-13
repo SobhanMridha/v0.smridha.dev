@@ -58,11 +58,11 @@
   "companies": [
     "companies/c.png",
     "companies/c++.png",
+    "companies/js.png",
     "companies/html.png",
     "companies/css.png",
-    "companies/tailwind.png",
-    "companies/js.png",
     "companies/react.png",
+    "companies/tailwind.png",
     "companies/node.png",
     "companies/express.png",
     "companies/mongodb.png",
